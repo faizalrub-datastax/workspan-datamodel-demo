@@ -19,6 +19,11 @@ Experience the interactive UI demo that showcases the functionalities and the in
 Dive deep into the table schema, understand the structure, and check out the sample data loaded into the system.
 - [Check out the detailed notebook here](https://github.com/faizalrub-datastax/workspan-datamodel-demo/blob/main/Workspan_Data_Model.ipynb)
 
+### 📊 Astra API Sample Notebook
+Sample notebook demonstrating Astra API to create a collection, store embeddings and filter similarity search results.
+- [Check out the detailed notebook here](https://github.com/faizalrub-datastax/workspan-datamodel-demo/blob/main/Workspan_AstraPy.ipynb)
+
+
 ## 📝 Notes
 
 - Always ensure you have the necessary dependencies installed to run the demo.
